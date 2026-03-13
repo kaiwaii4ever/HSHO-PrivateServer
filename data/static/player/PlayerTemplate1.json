@@ -1,0 +1,1658 @@
+{
+  "profile": {
+    "display": "Profile_Default",
+    "displayName": "",
+    "lastNameUpdate": null,
+    "updatedAt": null
+  },
+  "coin": 0,
+  "amethyst": 0,
+  "amulet": 0,
+  "characterSlot": {
+    "hunterSlot": [
+      {
+        "level_data": {
+          "level": 0,
+          "currenctExp": 0,
+          "totalExp": 0,
+          "nextLevelExp": 0
+        },
+        "character": "Hunter_Pray",
+        "perkPassive": ["None", "None", "None"],
+        "cosmetic_hat": "None",
+        "cosmetic_cloth": "Skin_Nymph_D_Default",
+        "cosmetic_back": "None",
+        "cosmetic_acc1": "None",
+        "cosmetic_acc2": "None",
+        "cosmetic_acc3": "None",
+        "ritual_stand": "None",
+        "ritual_ghost": "None",
+        "cosmetic_pose": {
+          "cosmetic_pose_victory": "None",
+          "cosmetic_pose_dead": "None"
+        },
+        "cosmetic_emote": {
+          "cosmetic_emote_00": "None",
+          "cosmetic_emote_01": "None",
+          "cosmetic_emote_02": "None",
+          "cosmetic_emote_03": "None",
+          "cosmetic_emote_04": "None",
+          "cosmetic_emote_05": "None",
+          "cosmetic_emote_06": "None",
+          "cosmetic_emote_07": "None"
+        },
+        "cosmetic_effect": {
+          "cosmetic_effect_transform": "None",
+          "cosmetic_effect_dead": "None",
+          "cosmetic_effect_kill": "None"
+        },
+        "item": { "item_offering": "None", "item_talisman": "None" },
+        "skill": { "skill_curse": "None" }
+      },
+      {
+        "level_data": {
+          "level": 0,
+          "currenctExp": 0,
+          "totalExp": 0,
+          "nextLevelExp": 0
+        },
+        "character": "Hunter_Prisoner",
+        "perkPassive": ["None", "None", "None"],
+        "cosmetic_hat": "None",
+        "cosmetic_cloth": "Skin_Prisoner_D_Default",
+        "cosmetic_back": "None",
+        "cosmetic_acc1": "None",
+        "cosmetic_acc2": "None",
+        "cosmetic_acc3": "None",
+        "ritual_stand": "None",
+        "ritual_ghost": "None",
+        "cosmetic_pose": {
+          "cosmetic_pose_victory": "None",
+          "cosmetic_pose_dead": "None"
+        },
+        "cosmetic_emote": {
+          "cosmetic_emote_00": "None",
+          "cosmetic_emote_01": "None",
+          "cosmetic_emote_02": "None",
+          "cosmetic_emote_03": "None",
+          "cosmetic_emote_04": "None",
+          "cosmetic_emote_05": "None",
+          "cosmetic_emote_06": "None",
+          "cosmetic_emote_07": "None"
+        },
+        "cosmetic_effect": {
+          "cosmetic_effect_transform": "None",
+          "cosmetic_effect_dead": "None",
+          "cosmetic_effect_kill": "None"
+        },
+        "item": { "item_offering": "None", "item_talisman": "None" },
+        "skill": { "skill_curse": "None" }
+      },
+      {
+        "level_data": {
+          "level": 0,
+          "currenctExp": 0,
+          "totalExp": 0,
+          "nextLevelExp": 0
+        },
+        "character": "Hunter_Belle",
+        "perkPassive": ["None", "None", "None"],
+        "cosmetic_hat": "None",
+        "cosmetic_cloth": "Skin_Belle_D_Default",
+        "cosmetic_back": "None",
+        "cosmetic_acc1": "None",
+        "cosmetic_acc2": "None",
+        "cosmetic_acc3": "None",
+        "ritual_stand": "None",
+        "ritual_ghost": "None",
+        "cosmetic_pose": {
+          "cosmetic_pose_victory": "None",
+          "cosmetic_pose_dead": "None"
+        },
+        "cosmetic_emote": {
+          "cosmetic_emote_00": "None",
+          "cosmetic_emote_01": "None",
+          "cosmetic_emote_02": "None",
+          "cosmetic_emote_03": "None",
+          "cosmetic_emote_04": "None",
+          "cosmetic_emote_05": "None",
+          "cosmetic_emote_06": "None",
+          "cosmetic_emote_07": "None"
+        },
+        "cosmetic_effect": {
+          "cosmetic_effect_transform": "None",
+          "cosmetic_effect_dead": "None",
+          "cosmetic_effect_kill": "None"
+        },
+        "item": { "item_offering": "None", "item_talisman": "None" },
+        "skill": { "skill_curse": "None" }
+      },
+      {
+        "level_data": {
+          "level": 0,
+          "currenctExp": 0,
+          "totalExp": 0,
+          "nextLevelExp": 0
+        },
+        "character": "Hunter_Rigger",
+        "perkPassive": ["None", "None", "None"],
+        "cosmetic_hat": "None",
+        "cosmetic_cloth": "Skin_Rigger_D_Default",
+        "cosmetic_back": "None",
+        "cosmetic_acc1": "None",
+        "cosmetic_acc2": "None",
+        "cosmetic_acc3": "None",
+        "ritual_stand": "None",
+        "ritual_ghost": "None",
+        "cosmetic_pose": {
+          "cosmetic_pose_victory": "None",
+          "cosmetic_pose_dead": "None"
+        },
+        "cosmetic_emote": {
+          "cosmetic_emote_00": "None",
+          "cosmetic_emote_01": "None",
+          "cosmetic_emote_02": "None",
+          "cosmetic_emote_03": "None",
+          "cosmetic_emote_04": "None",
+          "cosmetic_emote_05": "None",
+          "cosmetic_emote_06": "None",
+          "cosmetic_emote_07": "None"
+        },
+        "cosmetic_effect": {
+          "cosmetic_effect_transform": "None",
+          "cosmetic_effect_dead": "None",
+          "cosmetic_effect_kill": "None"
+        },
+        "item": { "item_offering": "None", "item_talisman": "None" },
+        "skill": { "skill_curse": "None" }
+      },
+      {
+        "level_data": {
+          "level": 0,
+          "currenctExp": 0,
+          "totalExp": 0,
+          "nextLevelExp": 0
+        },
+        "character": "Hunter_Garnet",
+        "perkPassive": ["None", "None", "None"],
+        "cosmetic_hat": "None",
+        "cosmetic_cloth": "Skin_Garnet_D_Default",
+        "cosmetic_back": "None",
+        "cosmetic_acc1": "None",
+        "cosmetic_acc2": "None",
+        "cosmetic_acc3": "None",
+        "ritual_stand": "None",
+        "ritual_ghost": "None",
+        "cosmetic_pose": {
+          "cosmetic_pose_victory": "None",
+          "cosmetic_pose_dead": "None"
+        },
+        "cosmetic_emote": {
+          "cosmetic_emote_00": "None",
+          "cosmetic_emote_01": "None",
+          "cosmetic_emote_02": "None",
+          "cosmetic_emote_03": "None",
+          "cosmetic_emote_04": "None",
+          "cosmetic_emote_05": "None",
+          "cosmetic_emote_06": "None",
+          "cosmetic_emote_07": "None"
+        },
+        "cosmetic_effect": {
+          "cosmetic_effect_transform": "None",
+          "cosmetic_effect_dead": "None",
+          "cosmetic_effect_kill": "None"
+        },
+        "item": { "item_offering": "None", "item_talisman": "None" },
+        "skill": { "skill_curse": "None" }
+      },
+      {
+        "level_data": {
+          "level": 0,
+          "currenctExp": 0,
+          "totalExp": 0,
+          "nextLevelExp": 0
+        },
+        "character": "Hunter_Werewolf",
+        "perkPassive": ["None", "None", "None"],
+        "cosmetic_hat": "None",
+        "cosmetic_cloth": "Skin_Nylcan_D_Default",
+        "cosmetic_back": "None",
+        "cosmetic_acc1": "None",
+        "cosmetic_acc2": "None",
+        "cosmetic_acc3": "None",
+        "ritual_stand": "None",
+        "ritual_ghost": "None",
+        "cosmetic_pose": {
+          "cosmetic_pose_victory": "None",
+          "cosmetic_pose_dead": "None"
+        },
+        "cosmetic_emote": {
+          "cosmetic_emote_00": "None",
+          "cosmetic_emote_01": "None",
+          "cosmetic_emote_02": "None",
+          "cosmetic_emote_03": "None",
+          "cosmetic_emote_04": "None",
+          "cosmetic_emote_05": "None",
+          "cosmetic_emote_06": "None",
+          "cosmetic_emote_07": "None"
+        },
+        "cosmetic_effect": {
+          "cosmetic_effect_transform": "None",
+          "cosmetic_effect_dead": "None",
+          "cosmetic_effect_kill": "None"
+        },
+        "item": { "item_offering": "None", "item_talisman": "None" },
+        "skill": { "skill_curse": "None" }
+      },
+      {
+        "level_data": {
+          "level": 0,
+          "currenctExp": 0,
+          "totalExp": 0,
+          "nextLevelExp": 0
+        },
+        "character": "Hunter_Chan",
+        "perkPassive": ["None", "None", "None"],
+        "cosmetic_hat": "None",
+        "cosmetic_cloth": "Skin_Chan_D_Default",
+        "cosmetic_back": "None",
+        "cosmetic_acc1": "None",
+        "cosmetic_acc2": "None",
+        "cosmetic_acc3": "None",
+        "ritual_stand": "None",
+        "ritual_ghost": "None",
+        "cosmetic_pose": {
+          "cosmetic_pose_victory": "None",
+          "cosmetic_pose_dead": "None"
+        },
+        "cosmetic_emote": {
+          "cosmetic_emote_00": "None",
+          "cosmetic_emote_01": "None",
+          "cosmetic_emote_02": "None",
+          "cosmetic_emote_03": "None",
+          "cosmetic_emote_04": "None",
+          "cosmetic_emote_05": "None",
+          "cosmetic_emote_06": "None",
+          "cosmetic_emote_07": "None"
+        },
+        "cosmetic_effect": {
+          "cosmetic_effect_transform": "None",
+          "cosmetic_effect_dead": "None",
+          "cosmetic_effect_kill": "None"
+        },
+        "item": { "item_offering": "None", "item_talisman": "None" },
+        "skill": { "skill_curse": "None" }
+      },
+      {
+        "level_data": {
+          "level": 0,
+          "currenctExp": 0,
+          "totalExp": 0,
+          "nextLevelExp": 0
+        },
+        "character": "Hunter_GrannyKham",
+        "perkPassive": ["None", "None", "None"],
+        "cosmetic_hat": "None",
+        "cosmetic_cloth": "Skin_GrannyKham_D_Default",
+        "cosmetic_back": "None",
+        "cosmetic_acc1": "None",
+        "cosmetic_acc2": "None",
+        "cosmetic_acc3": "None",
+        "ritual_stand": "None",
+        "ritual_ghost": "None",
+        "cosmetic_pose": {
+          "cosmetic_pose_victory": "None",
+          "cosmetic_pose_dead": "None"
+        },
+        "cosmetic_emote": {
+          "cosmetic_emote_00": "None",
+          "cosmetic_emote_01": "None",
+          "cosmetic_emote_02": "None",
+          "cosmetic_emote_03": "None",
+          "cosmetic_emote_04": "None",
+          "cosmetic_emote_05": "None",
+          "cosmetic_emote_06": "None",
+          "cosmetic_emote_07": "None"
+        },
+        "cosmetic_effect": {
+          "cosmetic_effect_transform": "None",
+          "cosmetic_effect_dead": "None",
+          "cosmetic_effect_kill": "None"
+        },
+        "item": { "item_offering": "None", "item_talisman": "None" },
+        "skill": { "skill_curse": "None" }
+      },
+      {
+        "level_data": {
+          "level": 0,
+          "currenctExp": 0,
+          "totalExp": 0,
+          "nextLevelExp": 0
+        },
+        "character": "Hunter_Saming",
+        "perkPassive": ["None", "None", "None"],
+        "cosmetic_hat": "None",
+        "cosmetic_cloth": "Skin_Saming_D_Default",
+        "cosmetic_back": "None",
+        "cosmetic_acc1": "None",
+        "cosmetic_acc2": "None",
+        "cosmetic_acc3": "None",
+        "ritual_stand": "None",
+        "ritual_ghost": "None",
+        "cosmetic_pose": {
+          "cosmetic_pose_victory": "None",
+          "cosmetic_pose_dead": "None"
+        },
+        "cosmetic_emote": {
+          "cosmetic_emote_00": "None",
+          "cosmetic_emote_01": "None",
+          "cosmetic_emote_02": "None",
+          "cosmetic_emote_03": "None",
+          "cosmetic_emote_04": "None",
+          "cosmetic_emote_05": "None",
+          "cosmetic_emote_06": "None",
+          "cosmetic_emote_07": "None"
+        },
+        "cosmetic_effect": {
+          "cosmetic_effect_transform": "None",
+          "cosmetic_effect_dead": "None",
+          "cosmetic_effect_kill": "None"
+        },
+        "item": { "item_offering": "None", "item_talisman": "None" },
+        "skill": { "skill_curse": "None" }
+      },
+      {
+        "level_data": {
+          "level": 0,
+          "currenctExp": 0,
+          "totalExp": 0,
+          "nextLevelExp": 0
+        },
+        "character": "Hunter_GrimFamily",
+        "perkPassive": ["None", "None", "None"],
+        "cosmetic_hat": "None",
+        "cosmetic_cloth": "Skin_GrimFamily_D_Default",
+        "cosmetic_back": "None",
+        "cosmetic_acc1": "None",
+        "cosmetic_acc2": "None",
+        "cosmetic_acc3": "None",
+        "ritual_stand": "None",
+        "ritual_ghost": "None",
+        "cosmetic_pose": {
+          "cosmetic_pose_victory": "None",
+          "cosmetic_pose_dead": "None"
+        },
+        "cosmetic_emote": {
+          "cosmetic_emote_00": "None",
+          "cosmetic_emote_01": "None",
+          "cosmetic_emote_02": "None",
+          "cosmetic_emote_03": "None",
+          "cosmetic_emote_04": "None",
+          "cosmetic_emote_05": "None",
+          "cosmetic_emote_06": "None",
+          "cosmetic_emote_07": "None"
+        },
+        "cosmetic_effect": {
+          "cosmetic_effect_transform": "None",
+          "cosmetic_effect_dead": "None",
+          "cosmetic_effect_kill": "None"
+        },
+        "item": { "item_offering": "None", "item_talisman": "None" },
+        "skill": { "skill_curse": "None" }
+      },
+      {
+        "level_data": {
+          "level": 0,
+          "currenctExp": 0,
+          "totalExp": 0,
+          "nextLevelExp": 0
+        },
+        "character": "Hunter_Verona",
+        "perkPassive": ["None", "None", "None"],
+        "cosmetic_hat": "None",
+        "cosmetic_cloth": "Skin_Verona_D_Default",
+        "cosmetic_back": "None",
+        "cosmetic_acc1": "None",
+        "cosmetic_acc2": "None",
+        "cosmetic_acc3": "None",
+        "ritual_stand": "None",
+        "ritual_ghost": "None",
+        "cosmetic_pose": {
+          "cosmetic_pose_victory": "None",
+          "cosmetic_pose_dead": "None"
+        },
+        "cosmetic_emote": {
+          "cosmetic_emote_00": "None",
+          "cosmetic_emote_01": "None",
+          "cosmetic_emote_02": "None",
+          "cosmetic_emote_03": "None",
+          "cosmetic_emote_04": "None",
+          "cosmetic_emote_05": "None",
+          "cosmetic_emote_06": "None",
+          "cosmetic_emote_07": "None"
+        },
+        "cosmetic_effect": {
+          "cosmetic_effect_transform": "None",
+          "cosmetic_effect_dead": "None",
+          "cosmetic_effect_kill": "None"
+        },
+        "item": { "item_offering": "None", "item_talisman": "None" },
+        "skill": { "skill_curse": "None" }
+      },
+      {
+        "level_data": {
+          "level": 0,
+          "currenctExp": 0,
+          "totalExp": 0,
+          "nextLevelExp": 0
+        },
+        "character": "Hunter_Kamiko",
+        "perkPassive": ["None", "None", "None"],
+        "cosmetic_hat": "None",
+        "cosmetic_cloth": "Skin_Kamiko_D_Default",
+        "cosmetic_back": "None",
+        "cosmetic_acc1": "None",
+        "cosmetic_acc2": "None",
+        "cosmetic_acc3": "None",
+        "ritual_stand": "None",
+        "ritual_ghost": "None",
+        "cosmetic_pose": {
+          "cosmetic_pose_victory": "None",
+          "cosmetic_pose_dead": "None"
+        },
+        "cosmetic_emote": {
+          "cosmetic_emote_00": "None",
+          "cosmetic_emote_01": "None",
+          "cosmetic_emote_02": "None",
+          "cosmetic_emote_03": "None",
+          "cosmetic_emote_04": "None",
+          "cosmetic_emote_05": "None",
+          "cosmetic_emote_06": "None",
+          "cosmetic_emote_07": "None"
+        },
+        "cosmetic_effect": {
+          "cosmetic_effect_transform": "None",
+          "cosmetic_effect_dead": "None",
+          "cosmetic_effect_kill": "None"
+        },
+        "item": { "item_offering": "None", "item_talisman": "None" },
+        "skill": { "skill_curse": "None" }
+      },
+      {
+        "level_data": {
+          "level": 0,
+          "currenctExp": 0,
+          "totalExp": 0,
+          "nextLevelExp": 0
+        },
+        "character": "Hunter_Charlotte",
+        "perkPassive": ["None", "None", "None"],
+        "cosmetic_hat": "None",
+        "cosmetic_cloth": "Skin_Charlotte_D_Default",
+        "cosmetic_back": "None",
+        "cosmetic_acc1": "None",
+        "cosmetic_acc2": "None",
+        "cosmetic_acc3": "None",
+        "ritual_stand": "None",
+        "ritual_ghost": "None",
+        "cosmetic_pose": {
+          "cosmetic_pose_victory": "None",
+          "cosmetic_pose_dead": "None"
+        },
+        "cosmetic_emote": {
+          "cosmetic_emote_00": "None",
+          "cosmetic_emote_01": "None",
+          "cosmetic_emote_02": "None",
+          "cosmetic_emote_03": "None",
+          "cosmetic_emote_04": "None",
+          "cosmetic_emote_05": "None",
+          "cosmetic_emote_06": "None",
+          "cosmetic_emote_07": "None"
+        },
+        "cosmetic_effect": {
+          "cosmetic_effect_transform": "None",
+          "cosmetic_effect_dead": "None",
+          "cosmetic_effect_kill": "None"
+        },
+        "item": { "item_offering": "None", "item_talisman": "None" },
+        "skill": { "skill_curse": "None" }
+      },
+      {
+        "level_data": {
+          "level": 0,
+          "currenctExp": 0,
+          "totalExp": 0,
+          "nextLevelExp": 0
+        },
+        "character": "Hunter_SilenceMan",
+        "perkPassive": ["None", "None", "None"],
+        "cosmetic_hat": "None",
+        "cosmetic_cloth": "Skin_SilenceMan_D_Default",
+        "cosmetic_back": "None",
+        "cosmetic_acc1": "None",
+        "cosmetic_acc2": "None",
+        "cosmetic_acc3": "None",
+        "ritual_stand": "None",
+        "ritual_ghost": "None",
+        "cosmetic_pose": {
+          "cosmetic_pose_victory": "None",
+          "cosmetic_pose_dead": "None"
+        },
+        "cosmetic_emote": {
+          "cosmetic_emote_00": "None",
+          "cosmetic_emote_01": "None",
+          "cosmetic_emote_02": "None",
+          "cosmetic_emote_03": "None",
+          "cosmetic_emote_04": "None",
+          "cosmetic_emote_05": "None",
+          "cosmetic_emote_06": "None",
+          "cosmetic_emote_07": "None"
+        },
+        "cosmetic_effect": {
+          "cosmetic_effect_transform": "None",
+          "cosmetic_effect_dead": "None",
+          "cosmetic_effect_kill": "None"
+        },
+        "item": { "item_offering": "None", "item_talisman": "None" },
+        "skill": { "skill_curse": "None" }
+      },
+      {
+        "level_data": {
+          "level": 0,
+          "currenctExp": 0,
+          "totalExp": 0,
+          "nextLevelExp": 0
+        },
+        "character": "Hunter_Ratri",
+        "perkPassive": ["None", "None", "None"],
+        "cosmetic_hat": "None",
+        "cosmetic_cloth": "Skin_Ratri_D_Default",
+        "cosmetic_back": "None",
+        "cosmetic_acc1": "None",
+        "cosmetic_acc2": "None",
+        "cosmetic_acc3": "None",
+        "ritual_stand": "None",
+        "ritual_ghost": "None",
+        "cosmetic_pose": {
+          "cosmetic_pose_victory": "None",
+          "cosmetic_pose_dead": "None"
+        },
+        "cosmetic_emote": {
+          "cosmetic_emote_00": "None",
+          "cosmetic_emote_01": "None",
+          "cosmetic_emote_02": "None",
+          "cosmetic_emote_03": "None",
+          "cosmetic_emote_04": "None",
+          "cosmetic_emote_05": "None",
+          "cosmetic_emote_06": "None",
+          "cosmetic_emote_07": "None"
+        },
+        "cosmetic_effect": {
+          "cosmetic_effect_transform": "None",
+          "cosmetic_effect_dead": "None",
+          "cosmetic_effect_kill": "None"
+        },
+        "item": { "item_offering": "None", "item_talisman": "None" },
+        "skill": { "skill_curse": "None" }
+      }
+    ],
+    "survivorSlot": [
+      {
+        "level_data": {
+          "level": 0,
+          "currenctExp": 0,
+          "totalExp": 0,
+          "nextLevelExp": 0
+        },
+        "character": "Survivor_Security",
+        "perkPassive": ["None", "None", "None"],
+        "cosmetic_hat": "None",
+        "cosmetic_cloth": "Skin_SeGuard_D_Default",
+        "cosmetic_back": "None",
+        "cosmetic_item": {
+          "cosmetic_Item_rattan": "None",
+          "cosmetic_Item_chaplet": "None",
+          "cosmetic_Item_energywater": "None",
+          "cosmetic_Item_syringe": "None",
+          "cosmetic_Item_holywater": "None",
+          "cosmetic_Item_holyrice": "None",
+          "cosmetic_Item_sigilscroll": "None",
+          "cosmetic_Item_sacredthread": "None"
+        },
+        "cosmetic_pose": {
+          "cosmetic_pose_victory": "None",
+          "cosmetic_pose_dead": "None"
+        },
+        "cosmetic_emote": {
+          "cosmetic_emote_00": "None",
+          "cosmetic_emote_01": "None",
+          "cosmetic_emote_02": "None",
+          "cosmetic_emote_03": "None",
+          "cosmetic_emote_04": "None",
+          "cosmetic_emote_05": "None",
+          "cosmetic_emote_06": "None",
+          "cosmetic_emote_07": "None"
+        },
+        "cosmetic_effect": { "cosmetic_effect_dead": "None" },
+        "item": { "item_offering": "None", "item_talisman": "None" },
+        "skill": { "skill_relic": "None" }
+      },
+      {
+        "level_data": {
+          "level": 0,
+          "currenctExp": 0,
+          "totalExp": 0,
+          "nextLevelExp": 0
+        },
+        "character": "Survivor_Pang3P",
+        "perkPassive": ["None", "None", "None"],
+        "cosmetic_hat": "None",
+        "cosmetic_cloth": "Skin_Pang3P_D_Default",
+        "cosmetic_back": "None",
+        "cosmetic_item": {
+          "cosmetic_Item_rattan": "None",
+          "cosmetic_Item_chaplet": "None",
+          "cosmetic_Item_energywater": "None",
+          "cosmetic_Item_syringe": "None",
+          "cosmetic_Item_holywater": "None",
+          "cosmetic_Item_holyrice": "None",
+          "cosmetic_Item_sigilscroll": "None",
+          "cosmetic_Item_sacredthread": "None"
+        },
+        "cosmetic_pose": {
+          "cosmetic_pose_victory": "None",
+          "cosmetic_pose_dead": "None"
+        },
+        "cosmetic_emote": {
+          "cosmetic_emote_00": "None",
+          "cosmetic_emote_01": "None",
+          "cosmetic_emote_02": "None",
+          "cosmetic_emote_03": "None",
+          "cosmetic_emote_04": "None",
+          "cosmetic_emote_05": "None",
+          "cosmetic_emote_06": "None",
+          "cosmetic_emote_07": "None"
+        },
+        "cosmetic_effect": { "cosmetic_effect_dead": "None" },
+        "item": { "item_offering": "None", "item_talisman": "None" },
+        "skill": { "skill_relic": "None" }
+      },
+      {
+        "level_data": {
+          "level": 0,
+          "currenctExp": 0,
+          "totalExp": 0,
+          "nextLevelExp": 0
+        },
+        "character": "Survivor_StudentF",
+        "perkPassive": ["None", "None", "None"],
+        "cosmetic_hat": "None",
+        "cosmetic_cloth": "Skin_Student_D_Default",
+        "cosmetic_back": "None",
+        "cosmetic_item": {
+          "cosmetic_Item_rattan": "None",
+          "cosmetic_Item_chaplet": "None",
+          "cosmetic_Item_energywater": "None",
+          "cosmetic_Item_syringe": "None",
+          "cosmetic_Item_holywater": "None",
+          "cosmetic_Item_holyrice": "None",
+          "cosmetic_Item_sigilscroll": "None",
+          "cosmetic_Item_sacredthread": "None"
+        },
+        "cosmetic_pose": {
+          "cosmetic_pose_victory": "None",
+          "cosmetic_pose_dead": "None"
+        },
+        "cosmetic_emote": {
+          "cosmetic_emote_00": "None",
+          "cosmetic_emote_01": "None",
+          "cosmetic_emote_02": "None",
+          "cosmetic_emote_03": "None",
+          "cosmetic_emote_04": "None",
+          "cosmetic_emote_05": "None",
+          "cosmetic_emote_06": "None",
+          "cosmetic_emote_07": "None"
+        },
+        "cosmetic_effect": { "cosmetic_effect_dead": "None" },
+        "item": { "item_offering": "None", "item_talisman": "None" },
+        "skill": { "skill_relic": "None" }
+      },
+      {
+        "level_data": {
+          "level": 0,
+          "currenctExp": 0,
+          "totalExp": 0,
+          "nextLevelExp": 0
+        },
+        "character": "Survivor_Manop",
+        "perkPassive": ["None", "None", "None"],
+        "cosmetic_hat": "None",
+        "cosmetic_cloth": "Skin_Manop_D_Default",
+        "cosmetic_back": "None",
+        "cosmetic_item": {
+          "cosmetic_Item_rattan": "None",
+          "cosmetic_Item_chaplet": "None",
+          "cosmetic_Item_energywater": "None",
+          "cosmetic_Item_syringe": "None",
+          "cosmetic_Item_holywater": "None",
+          "cosmetic_Item_holyrice": "None",
+          "cosmetic_Item_sigilscroll": "None",
+          "cosmetic_Item_sacredthread": "None"
+        },
+        "cosmetic_pose": {
+          "cosmetic_pose_victory": "None",
+          "cosmetic_pose_dead": "None"
+        },
+        "cosmetic_emote": {
+          "cosmetic_emote_00": "None",
+          "cosmetic_emote_01": "None",
+          "cosmetic_emote_02": "None",
+          "cosmetic_emote_03": "None",
+          "cosmetic_emote_04": "None",
+          "cosmetic_emote_05": "None",
+          "cosmetic_emote_06": "None",
+          "cosmetic_emote_07": "None"
+        },
+        "cosmetic_effect": { "cosmetic_effect_dead": "None" },
+        "item": { "item_offering": "None", "item_talisman": "None" },
+        "skill": { "skill_relic": "None" }
+      },
+      {
+        "level_data": {
+          "level": 0,
+          "currenctExp": 0,
+          "totalExp": 0,
+          "nextLevelExp": 0
+        },
+        "character": "Survivor_Jane",
+        "perkPassive": ["None", "None", "None"],
+        "cosmetic_hat": "None",
+        "cosmetic_cloth": "Skin_Jane_D_Default",
+        "cosmetic_back": "None",
+        "cosmetic_item": {
+          "cosmetic_Item_rattan": "None",
+          "cosmetic_Item_chaplet": "None",
+          "cosmetic_Item_energywater": "None",
+          "cosmetic_Item_syringe": "None",
+          "cosmetic_Item_holywater": "None",
+          "cosmetic_Item_holyrice": "None",
+          "cosmetic_Item_sigilscroll": "None",
+          "cosmetic_Item_sacredthread": "None"
+        },
+        "cosmetic_pose": {
+          "cosmetic_pose_victory": "None",
+          "cosmetic_pose_dead": "None"
+        },
+        "cosmetic_emote": {
+          "cosmetic_emote_00": "None",
+          "cosmetic_emote_01": "None",
+          "cosmetic_emote_02": "None",
+          "cosmetic_emote_03": "None",
+          "cosmetic_emote_04": "None",
+          "cosmetic_emote_05": "None",
+          "cosmetic_emote_06": "None",
+          "cosmetic_emote_07": "None"
+        },
+        "cosmetic_effect": { "cosmetic_effect_dead": "None" },
+        "item": { "item_offering": "None", "item_talisman": "None" },
+        "skill": { "skill_relic": "None" }
+      },
+      {
+        "level_data": {
+          "level": 0,
+          "currenctExp": 0,
+          "totalExp": 0,
+          "nextLevelExp": 0
+        },
+        "character": "Survivor_Jean",
+        "perkPassive": ["None", "None", "None"],
+        "cosmetic_hat": "None",
+        "cosmetic_cloth": "Skin_Jean_D_Default",
+        "cosmetic_back": "None",
+        "cosmetic_item": {
+          "cosmetic_Item_rattan": "None",
+          "cosmetic_Item_chaplet": "None",
+          "cosmetic_Item_energywater": "None",
+          "cosmetic_Item_syringe": "None",
+          "cosmetic_Item_holywater": "None",
+          "cosmetic_Item_holyrice": "None",
+          "cosmetic_Item_sigilscroll": "None",
+          "cosmetic_Item_sacredthread": "None"
+        },
+        "cosmetic_pose": {
+          "cosmetic_pose_victory": "None",
+          "cosmetic_pose_dead": "None"
+        },
+        "cosmetic_emote": {
+          "cosmetic_emote_00": "None",
+          "cosmetic_emote_01": "None",
+          "cosmetic_emote_02": "None",
+          "cosmetic_emote_03": "None",
+          "cosmetic_emote_04": "None",
+          "cosmetic_emote_05": "None",
+          "cosmetic_emote_06": "None",
+          "cosmetic_emote_07": "None"
+        },
+        "cosmetic_effect": { "cosmetic_effect_dead": "None" },
+        "item": { "item_offering": "None", "item_talisman": "None" },
+        "skill": { "skill_relic": "None" }
+      },
+      {
+        "level_data": {
+          "level": 0,
+          "currenctExp": 0,
+          "totalExp": 0,
+          "nextLevelExp": 0
+        },
+        "character": "Survivor_Tim",
+        "perkPassive": ["None", "None", "None"],
+        "cosmetic_hat": "None",
+        "cosmetic_cloth": "Skin_Tim_D_Default",
+        "cosmetic_back": "None",
+        "cosmetic_item": {
+          "cosmetic_Item_rattan": "None",
+          "cosmetic_Item_chaplet": "None",
+          "cosmetic_Item_energywater": "None",
+          "cosmetic_Item_syringe": "None",
+          "cosmetic_Item_holywater": "None",
+          "cosmetic_Item_holyrice": "None",
+          "cosmetic_Item_sigilscroll": "None",
+          "cosmetic_Item_sacredthread": "None"
+        },
+        "cosmetic_pose": {
+          "cosmetic_pose_victory": "None",
+          "cosmetic_pose_dead": "None"
+        },
+        "cosmetic_emote": {
+          "cosmetic_emote_00": "None",
+          "cosmetic_emote_01": "None",
+          "cosmetic_emote_02": "None",
+          "cosmetic_emote_03": "None",
+          "cosmetic_emote_04": "None",
+          "cosmetic_emote_05": "None",
+          "cosmetic_emote_06": "None",
+          "cosmetic_emote_07": "None"
+        },
+        "cosmetic_effect": { "cosmetic_effect_dead": "None" },
+        "item": { "item_offering": "None", "item_talisman": "None" },
+        "skill": { "skill_relic": "None" }
+      },
+      {
+        "level_data": {
+          "level": 0,
+          "currenctExp": 0,
+          "totalExp": 0,
+          "nextLevelExp": 0
+        },
+        "character": "Survivor_Aof",
+        "perkPassive": ["None", "None", "None"],
+        "cosmetic_hat": "None",
+        "cosmetic_cloth": "Skin_Aof_D_Default",
+        "cosmetic_back": "None",
+        "cosmetic_item": {
+          "cosmetic_Item_rattan": "None",
+          "cosmetic_Item_chaplet": "None",
+          "cosmetic_Item_energywater": "None",
+          "cosmetic_Item_syringe": "None",
+          "cosmetic_Item_holywater": "None",
+          "cosmetic_Item_holyrice": "None",
+          "cosmetic_Item_sigilscroll": "None",
+          "cosmetic_Item_sacredthread": "None"
+        },
+        "cosmetic_pose": {
+          "cosmetic_pose_victory": "None",
+          "cosmetic_pose_dead": "None"
+        },
+        "cosmetic_emote": {
+          "cosmetic_emote_00": "None",
+          "cosmetic_emote_01": "None",
+          "cosmetic_emote_02": "None",
+          "cosmetic_emote_03": "None",
+          "cosmetic_emote_04": "None",
+          "cosmetic_emote_05": "None",
+          "cosmetic_emote_06": "None",
+          "cosmetic_emote_07": "None"
+        },
+        "cosmetic_effect": { "cosmetic_effect_dead": "None" },
+        "item": { "item_offering": "None", "item_talisman": "None" },
+        "skill": { "skill_relic": "None" }
+      },
+      {
+        "level_data": {
+          "level": 0,
+          "currenctExp": 0,
+          "totalExp": 0,
+          "nextLevelExp": 0
+        },
+        "character": "Survivor_Don",
+        "perkPassive": ["None", "None", "None"],
+        "cosmetic_hat": "None",
+        "cosmetic_cloth": "Skin_Don_D_Default",
+        "cosmetic_back": "None",
+        "cosmetic_item": {
+          "cosmetic_Item_rattan": "None",
+          "cosmetic_Item_chaplet": "None",
+          "cosmetic_Item_energywater": "None",
+          "cosmetic_Item_syringe": "None",
+          "cosmetic_Item_holywater": "None",
+          "cosmetic_Item_holyrice": "None",
+          "cosmetic_Item_sigilscroll": "None",
+          "cosmetic_Item_sacredthread": "None"
+        },
+        "cosmetic_pose": {
+          "cosmetic_pose_victory": "None",
+          "cosmetic_pose_dead": "None"
+        },
+        "cosmetic_emote": {
+          "cosmetic_emote_00": "None",
+          "cosmetic_emote_01": "None",
+          "cosmetic_emote_02": "None",
+          "cosmetic_emote_03": "None",
+          "cosmetic_emote_04": "None",
+          "cosmetic_emote_05": "None",
+          "cosmetic_emote_06": "None",
+          "cosmetic_emote_07": "None"
+        },
+        "cosmetic_effect": { "cosmetic_effect_dead": "None" },
+        "item": { "item_offering": "None", "item_talisman": "None" },
+        "skill": { "skill_relic": "None" }
+      },
+      {
+        "level_data": {
+          "level": 0,
+          "currenctExp": 0,
+          "totalExp": 0,
+          "nextLevelExp": 0
+        },
+        "character": "Survivor_Vanz",
+        "perkPassive": ["None", "None", "None"],
+        "cosmetic_hat": "None",
+        "cosmetic_cloth": "Skin_Vanz_D_Default",
+        "cosmetic_back": "None",
+        "cosmetic_item": {
+          "cosmetic_Item_rattan": "None",
+          "cosmetic_Item_chaplet": "None",
+          "cosmetic_Item_energywater": "None",
+          "cosmetic_Item_syringe": "None",
+          "cosmetic_Item_holywater": "None",
+          "cosmetic_Item_holyrice": "None",
+          "cosmetic_Item_sigilscroll": "None",
+          "cosmetic_Item_sacredthread": "None"
+        },
+        "cosmetic_pose": {
+          "cosmetic_pose_victory": "None",
+          "cosmetic_pose_dead": "None"
+        },
+        "cosmetic_emote": {
+          "cosmetic_emote_00": "None",
+          "cosmetic_emote_01": "None",
+          "cosmetic_emote_02": "None",
+          "cosmetic_emote_03": "None",
+          "cosmetic_emote_04": "None",
+          "cosmetic_emote_05": "None",
+          "cosmetic_emote_06": "None",
+          "cosmetic_emote_07": "None"
+        },
+        "cosmetic_effect": { "cosmetic_effect_dead": "None" },
+        "item": { "item_offering": "None", "item_talisman": "None" },
+        "skill": { "skill_relic": "None" }
+      },
+      {
+        "level_data": {
+          "level": 0,
+          "currenctExp": 0,
+          "totalExp": 0,
+          "nextLevelExp": 0
+        },
+        "character": "Survivor_JapanTouristF",
+        "perkPassive": ["None", "None", "None"],
+        "cosmetic_hat": "None",
+        "cosmetic_cloth": "Skin_TouristJap_D_Default",
+        "cosmetic_back": "None",
+        "cosmetic_item": {
+          "cosmetic_Item_rattan": "None",
+          "cosmetic_Item_chaplet": "None",
+          "cosmetic_Item_energywater": "None",
+          "cosmetic_Item_syringe": "None",
+          "cosmetic_Item_holywater": "None",
+          "cosmetic_Item_holyrice": "None",
+          "cosmetic_Item_sigilscroll": "None",
+          "cosmetic_Item_sacredthread": "None"
+        },
+        "cosmetic_pose": {
+          "cosmetic_pose_victory": "None",
+          "cosmetic_pose_dead": "None"
+        },
+        "cosmetic_emote": {
+          "cosmetic_emote_00": "None",
+          "cosmetic_emote_01": "None",
+          "cosmetic_emote_02": "None",
+          "cosmetic_emote_03": "None",
+          "cosmetic_emote_04": "None",
+          "cosmetic_emote_05": "None",
+          "cosmetic_emote_06": "None",
+          "cosmetic_emote_07": "None"
+        },
+        "cosmetic_effect": { "cosmetic_effect_dead": "None" },
+        "item": { "item_offering": "None", "item_talisman": "None" },
+        "skill": { "skill_relic": "None" }
+      },
+      {
+        "level_data": {
+          "level": 0,
+          "currenctExp": 0,
+          "totalExp": 0,
+          "nextLevelExp": 0
+        },
+        "character": "Survivor_Tida",
+        "perkPassive": ["None", "None", "None"],
+        "cosmetic_hat": "None",
+        "cosmetic_cloth": "Skin_Tida_D_Default",
+        "cosmetic_back": "None",
+        "cosmetic_item": {
+          "cosmetic_Item_rattan": "None",
+          "cosmetic_Item_chaplet": "None",
+          "cosmetic_Item_energywater": "None",
+          "cosmetic_Item_syringe": "None",
+          "cosmetic_Item_holywater": "None",
+          "cosmetic_Item_holyrice": "None",
+          "cosmetic_Item_sigilscroll": "None",
+          "cosmetic_Item_sacredthread": "None"
+        },
+        "cosmetic_pose": {
+          "cosmetic_pose_victory": "None",
+          "cosmetic_pose_dead": "None"
+        },
+        "cosmetic_emote": {
+          "cosmetic_emote_00": "None",
+          "cosmetic_emote_01": "None",
+          "cosmetic_emote_02": "None",
+          "cosmetic_emote_03": "None",
+          "cosmetic_emote_04": "None",
+          "cosmetic_emote_05": "None",
+          "cosmetic_emote_06": "None",
+          "cosmetic_emote_07": "None"
+        },
+        "cosmetic_effect": { "cosmetic_effect_dead": "None" },
+        "item": { "item_offering": "None", "item_talisman": "None" },
+        "skill": { "skill_relic": "None" }
+      },
+      {
+        "level_data": {
+          "level": 0,
+          "currenctExp": 0,
+          "totalExp": 0,
+          "nextLevelExp": 0
+        },
+        "character": "Survivor_Zico",
+        "perkPassive": ["None", "None", "None"],
+        "cosmetic_hat": "None",
+        "cosmetic_cloth": "Skin_Zico_D_Default",
+        "cosmetic_back": "None",
+        "cosmetic_item": {
+          "cosmetic_Item_rattan": "None",
+          "cosmetic_Item_chaplet": "None",
+          "cosmetic_Item_energywater": "None",
+          "cosmetic_Item_syringe": "None",
+          "cosmetic_Item_holywater": "None",
+          "cosmetic_Item_holyrice": "None",
+          "cosmetic_Item_sigilscroll": "None",
+          "cosmetic_Item_sacredthread": "None"
+        },
+        "cosmetic_pose": {
+          "cosmetic_pose_victory": "None",
+          "cosmetic_pose_dead": "None"
+        },
+        "cosmetic_emote": {
+          "cosmetic_emote_00": "None",
+          "cosmetic_emote_01": "None",
+          "cosmetic_emote_02": "None",
+          "cosmetic_emote_03": "None",
+          "cosmetic_emote_04": "None",
+          "cosmetic_emote_05": "None",
+          "cosmetic_emote_06": "None",
+          "cosmetic_emote_07": "None"
+        },
+        "cosmetic_effect": { "cosmetic_effect_dead": "None" },
+        "item": { "item_offering": "None", "item_talisman": "None" },
+        "skill": { "skill_relic": "None" }
+      },
+      {
+        "level_data": {
+          "level": 0,
+          "currenctExp": 0,
+          "totalExp": 0,
+          "nextLevelExp": 0
+        },
+        "character": "Survivor_Jessi",
+        "perkPassive": ["None", "None", "None"],
+        "cosmetic_hat": "None",
+        "cosmetic_cloth": "Skin_Jessi_D_Default",
+        "cosmetic_back": "None",
+        "cosmetic_item": {
+          "cosmetic_Item_rattan": "None",
+          "cosmetic_Item_chaplet": "None",
+          "cosmetic_Item_energywater": "None",
+          "cosmetic_Item_syringe": "None",
+          "cosmetic_Item_holywater": "None",
+          "cosmetic_Item_holyrice": "None",
+          "cosmetic_Item_sigilscroll": "None",
+          "cosmetic_Item_sacredthread": "None"
+        },
+        "cosmetic_pose": {
+          "cosmetic_pose_victory": "None",
+          "cosmetic_pose_dead": "None"
+        },
+        "cosmetic_emote": {
+          "cosmetic_emote_00": "None",
+          "cosmetic_emote_01": "None",
+          "cosmetic_emote_02": "None",
+          "cosmetic_emote_03": "None",
+          "cosmetic_emote_04": "None",
+          "cosmetic_emote_05": "None",
+          "cosmetic_emote_06": "None",
+          "cosmetic_emote_07": "None"
+        },
+        "cosmetic_effect": { "cosmetic_effect_dead": "None" },
+        "item": { "item_offering": "None", "item_talisman": "None" },
+        "skill": { "skill_relic": "None" }
+      },
+      {
+        "level_data": {
+          "level": 0,
+          "currenctExp": 0,
+          "totalExp": 0,
+          "nextLevelExp": 0
+        },
+        "character": "Survivor_ZBing",
+        "perkPassive": ["None", "None", "None"],
+        "cosmetic_hat": "None",
+        "cosmetic_cloth": "Skin_zBing_D_Default",
+        "cosmetic_back": "None",
+        "cosmetic_item": {
+          "cosmetic_Item_rattan": "None",
+          "cosmetic_Item_chaplet": "None",
+          "cosmetic_Item_energywater": "None",
+          "cosmetic_Item_syringe": "None",
+          "cosmetic_Item_holywater": "None",
+          "cosmetic_Item_holyrice": "None",
+          "cosmetic_Item_sigilscroll": "None",
+          "cosmetic_Item_sacredthread": "None"
+        },
+        "cosmetic_pose": {
+          "cosmetic_pose_victory": "None",
+          "cosmetic_pose_dead": "None"
+        },
+        "cosmetic_emote": {
+          "cosmetic_emote_00": "None",
+          "cosmetic_emote_01": "None",
+          "cosmetic_emote_02": "None",
+          "cosmetic_emote_03": "None",
+          "cosmetic_emote_04": "None",
+          "cosmetic_emote_05": "None",
+          "cosmetic_emote_06": "None",
+          "cosmetic_emote_07": "None"
+        },
+        "cosmetic_effect": { "cosmetic_effect_dead": "None" },
+        "item": { "item_offering": "None", "item_talisman": "None" },
+        "skill": { "skill_relic": "None" }
+      },
+      {
+        "level_data": {
+          "level": 0,
+          "currenctExp": 0,
+          "totalExp": 0,
+          "nextLevelExp": 0
+        },
+        "character": "Survivor_TimAwake",
+        "perkPassive": ["None", "None", "None"],
+        "cosmetic_hat": "None",
+        "cosmetic_cloth": "Skin_TimAwake_D_Default",
+        "cosmetic_back": "None",
+        "cosmetic_item": {
+          "cosmetic_Item_rattan": "None",
+          "cosmetic_Item_chaplet": "None",
+          "cosmetic_Item_energywater": "None",
+          "cosmetic_Item_syringe": "None",
+          "cosmetic_Item_holywater": "None",
+          "cosmetic_Item_holyrice": "None",
+          "cosmetic_Item_sigilscroll": "None",
+          "cosmetic_Item_sacredthread": "None"
+        },
+        "cosmetic_pose": {
+          "cosmetic_pose_victory": "None",
+          "cosmetic_pose_dead": "None"
+        },
+        "cosmetic_emote": {
+          "cosmetic_emote_00": "None",
+          "cosmetic_emote_01": "None",
+          "cosmetic_emote_02": "None",
+          "cosmetic_emote_03": "None",
+          "cosmetic_emote_04": "None",
+          "cosmetic_emote_05": "None",
+          "cosmetic_emote_06": "None",
+          "cosmetic_emote_07": "None"
+        },
+        "cosmetic_effect": { "cosmetic_effect_dead": "None" },
+        "item": { "item_offering": "None", "item_talisman": "None" },
+        "skill": { "skill_relic": "None" }
+      },
+      {
+        "level_data": {
+          "level": 0,
+          "currenctExp": 0,
+          "totalExp": 0,
+          "nextLevelExp": 0
+        },
+        "character": "Survivor_Aisha",
+        "perkPassive": ["None", "None", "None"],
+        "cosmetic_hat": "None",
+        "cosmetic_cloth": "Skin_Aisha_D_Default",
+        "cosmetic_back": "None",
+        "cosmetic_item": {
+          "cosmetic_Item_rattan": "None",
+          "cosmetic_Item_chaplet": "None",
+          "cosmetic_Item_energywater": "None",
+          "cosmetic_Item_syringe": "None",
+          "cosmetic_Item_holywater": "None",
+          "cosmetic_Item_holyrice": "None",
+          "cosmetic_Item_sigilscroll": "None",
+          "cosmetic_Item_sacredthread": "None"
+        },
+        "cosmetic_pose": {
+          "cosmetic_pose_victory": "None",
+          "cosmetic_pose_dead": "None"
+        },
+        "cosmetic_emote": {
+          "cosmetic_emote_00": "None",
+          "cosmetic_emote_01": "None",
+          "cosmetic_emote_02": "None",
+          "cosmetic_emote_03": "None",
+          "cosmetic_emote_04": "None",
+          "cosmetic_emote_05": "None",
+          "cosmetic_emote_06": "None",
+          "cosmetic_emote_07": "None"
+        },
+        "cosmetic_effect": { "cosmetic_effect_dead": "None" },
+        "item": { "item_offering": "None", "item_talisman": "None" },
+        "skill": { "skill_relic": "None" }
+      },
+      {
+        "level_data": {
+          "level": 0,
+          "currenctExp": 0,
+          "totalExp": 0,
+          "nextLevelExp": 0
+        },
+        "character": "Survivor_Stephen",
+        "perkPassive": ["None", "None", "None"],
+        "cosmetic_hat": "None",
+        "cosmetic_cloth": "Skin_Stephen_D_Default",
+        "cosmetic_back": "None",
+        "cosmetic_item": {
+          "cosmetic_Item_rattan": "None",
+          "cosmetic_Item_chaplet": "None",
+          "cosmetic_Item_energywater": "None",
+          "cosmetic_Item_syringe": "None",
+          "cosmetic_Item_holywater": "None",
+          "cosmetic_Item_holyrice": "None",
+          "cosmetic_Item_sigilscroll": "None",
+          "cosmetic_Item_sacredthread": "None"
+        },
+        "cosmetic_pose": {
+          "cosmetic_pose_victory": "None",
+          "cosmetic_pose_dead": "None"
+        },
+        "cosmetic_emote": {
+          "cosmetic_emote_00": "None",
+          "cosmetic_emote_01": "None",
+          "cosmetic_emote_02": "None",
+          "cosmetic_emote_03": "None",
+          "cosmetic_emote_04": "None",
+          "cosmetic_emote_05": "None",
+          "cosmetic_emote_06": "None",
+          "cosmetic_emote_07": "None"
+        },
+        "cosmetic_effect": { "cosmetic_effect_dead": "None" },
+        "item": { "item_offering": "None", "item_talisman": "None" },
+        "skill": { "skill_relic": "None" }
+      },
+      {
+        "level_data": {
+          "level": 0,
+          "currenctExp": 0,
+          "totalExp": 0,
+          "nextLevelExp": 0
+        },
+        "character": "Survivor_Gwyneth",
+        "perkPassive": ["None", "None", "None"],
+        "cosmetic_hat": "None",
+        "cosmetic_cloth": "Skin_Gwyneth_D_Default",
+        "cosmetic_back": "None",
+        "cosmetic_item": {
+          "cosmetic_Item_rattan": "None",
+          "cosmetic_Item_chaplet": "None",
+          "cosmetic_Item_energywater": "None",
+          "cosmetic_Item_syringe": "None",
+          "cosmetic_Item_holywater": "None",
+          "cosmetic_Item_holyrice": "None",
+          "cosmetic_Item_sigilscroll": "None",
+          "cosmetic_Item_sacredthread": "None"
+        },
+        "cosmetic_pose": {
+          "cosmetic_pose_victory": "None",
+          "cosmetic_pose_dead": "None"
+        },
+        "cosmetic_emote": {
+          "cosmetic_emote_00": "None",
+          "cosmetic_emote_01": "None",
+          "cosmetic_emote_02": "None",
+          "cosmetic_emote_03": "None",
+          "cosmetic_emote_04": "None",
+          "cosmetic_emote_05": "None",
+          "cosmetic_emote_06": "None",
+          "cosmetic_emote_07": "None"
+        },
+        "cosmetic_effect": { "cosmetic_effect_dead": "None" },
+        "item": { "item_offering": "None", "item_talisman": "None" },
+        "skill": { "skill_relic": "None" }
+      }
+    ],
+    "characteritem": "Survivor_Tim",
+    "characterhunteritem": "Hunter_Belle"
+  },
+  "role": "survivor",
+  "banStatus": {
+    "permanentBanned": false,
+    "bannedUntil": "1099-01-01T07:00:00.000Z",
+    "banInSecond": 0,
+    "penaltyLevel": 0,
+    "count": 0,
+    "banMessageCode": 1,
+    "history": [],
+    "reason": null
+  },
+  "playerRecord": {
+    "hunter": {
+      "eliminate": 0,
+      "matchplayed": 0,
+      "score": 0,
+      "souls": 0,
+      "leave": 0,
+      "scoreWardenPunishment": 0,
+      "scoreWardenChase": 0,
+      "scoreWardenCompleteObjective": 0,
+      "scoreWardenRampage": 0
+    },
+    "survivor": {
+      "eliminate": 0,
+      "escape": 0,
+      "matchplayed": 0,
+      "score": 0,
+      "leave": 0,
+      "scoreVisitorCompleteObjective": 0,
+      "scoreVisitorDecoy": 0,
+      "scoreVisitorUseItem": 0,
+      "scoreVisitorAssist": 0
+    }
+  },
+  "stickerSlot": {
+    "stickerpreset": 0,
+    "stickerSet": [
+      [
+        "Sticker_Default_Fight",
+        "Sticker_Default_GotKeyItem",
+        "Sticker_Default_Okay",
+        "Sticker_Default_No",
+        "Sticker_Default_Run",
+        "Sticker_Default_HelpMe",
+        "Sticker_Default_CoverMe",
+        "Sticker_Default_MeDecoy"
+      ],
+      [
+        "Sticker_Default_Fight",
+        "Sticker_Default_GotKeyItem",
+        "Sticker_Default_Okay",
+        "Sticker_Default_No",
+        "Sticker_Default_Run",
+        "Sticker_Default_HelpMe",
+        "Sticker_Default_CoverMe",
+        "Sticker_Default_MeDecoy"
+      ],
+      [
+        "Sticker_Default_Fight",
+        "Sticker_Default_GotKeyItem",
+        "Sticker_Default_Okay",
+        "Sticker_Default_No",
+        "Sticker_Default_Run",
+        "Sticker_Default_HelpMe",
+        "Sticker_Default_CoverMe",
+        "Sticker_Default_MeDecoy"
+      ]
+    ]
+  },
+  "inventory": {
+    "devAccount": false,
+    "characters": [ "Hunter_SilenceMan","Survivor_Security", "Survivor_Pang3P", "Hunter_Pray", "Hunter_Prisoner", "Survivor_StudentF", "Survivor_Manop", "Survivor_Jane", "Survivor_Jean", "Survivor_Tim", "Hunter_Belle", "Survivor_Aof", "Hunter_Rigger", "Survivor_Don", "Survivor_Vanz", "Hunter_Garnet", "Survivor_JapanTouristF", "Hunter_Werewolf", "Survivor_Tida", "Hunter_Chan", "Survivor_Zico", "Survivor_Jessi", "Hunter_GrannyKham", "Survivor_ZBing", "Hunter_Saming", "Survivor_TimAwake", "Hunter_GrimFamily", "Hunter_Verona", "Survivor_Aisha", "Hunter_Kamiko", "Survivor_Stephen", "Hunter_Charlotte", "Survivor_Gwyneth", "Hunter_Ratri" ],
+    "items": [
+      "OF_Game_Map_00001",
+      "OF_Game_Map_00005",
+      "OF_Visitor_Item_SigilScroll",
+      "OF_Game_Map_00009",
+      "OF_Visitor_Item_EnergyWater",
+      "OF_Game_Map_00010",
+      "OF_Warden_Show_Visitor",
+      "OF_Warden_Buff_DecreaseCoolDown",
+      "OF_Visitor_Item_HolyRice",
+      "OF_Game_Map_00006",
+      "OF_Game_Map_00002",
+      "OF_Game_Map_00004",
+      "OF_Game_Map_00003",
+      "OF_Game_Map_00007",
+      "OF_Game_Map_00008",
+      "OF_Visitor_Item_HolyWater",
+      "OF_Visitor_Item_Rattan",
+      "OF_Warden_Buff_FreeImmune",
+      "OF_Visitor_Item_Chaplet",
+      "OF_Warden_BulletCoinBonus50",
+      "OF_Visitor_Buff_StartGameSetCooldown",
+      "OF_Visitor_Buff_FreeRelic",
+      "OF_Warden_Buff_FreeCurse",
+      "OF_Game_Map_00012",
+      "OF_Warden_BulletCoinBonus25",
+      "OF_Warden_BulletCoinBonus75",
+      "OF_Visitor_Buff_SetCooldown",
+      "OF_Visitor_BulletCoinBonus50",
+      "OF_Visitor_BulletCoinBonus75",
+      "OF_Game_Map_00011",
+      "OF_Warden_Buff_FreeBloodSeek",
+      "OF_Warden_Buff_FirstDamage",
+      "OF_Visitor_BulletCoinBonus25",
+      "OF_All_BulletCoinBonus75",
+      "OF_Game_Map_00013",
+      "OF_Game_Map_00014",
+      "OF_Game_Map_00015",
+      "OF_Game_Map_00016"
+    ],
+    "itemCounts": [
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1
+    ],
+    "skins": [ "Skin_Kamiko_D_Default","Skin_Nylcan_D_Default", "Skin_Don_D_Default", "Skin_Aof_D_Default", "Skin_Nymph_D_Default", "Skin_Tim_D_Default", "Skin_Prisoner_D_Default", "Skin_Manop_D_Default", "Skin_Garnet_D_Default", "Skin_SeGuard_D_Default", "Skin_zBing_D_Default", "Skin_Jane_D_Default", "Skin_Belle_D_Default", "Skin_Pang3P_D_Default", "Skin_Chan_D_Default", "Skin_Student_D_Default", "Skin_Rigger_D_Default", "Skin_TouristJap_D_Default", "Skin_GrannyKham_D_Default", "Skin_Ratri_D_Default", "Skin_Tida_D_Default", "Skin_Saming_D_Default", "Skin_Zico_D_Default", "Skin_TimAwake_D_Default", "Skin_Verona_D_Default", "Skin_Aisha_D_Default", "Skin_Stephen_D_Default", "Skin_Charlotte_D_Default", "Skin_GrimFamily_D_Default", "Skin_Gwyneth_D_Default", "Skin_SilenceMan_D_Default", "Skin_Jessi_D_Default", "Skin_Jean_D_Default", "Skin_Vanz_D_Default" ],
+    "perks": [ "PP_Survivor_WatchYourBack", "PP_Survivor_QuickHeal", "PP_Hunter_Helmet", "PP_Hunter_DarkOccult", "PP_Hunter_LastDance", "PP_Survivor_SoulSprint", "PP_Hunter_FallDetector", "PP_Survivor_HolywaterMaster", "PP_Hunter_Poltergeist", "PP_Hunter_SoulSealing", "PP_Hunter_SpecialReceptor", "PP_Hunter_DisPotion", "PP_Survivor_ThreadExpert", "PP_Survivor_EmergencyExit", "PP_Survivor_SharpEye", "PP_Survivor_HalfSpell", "PP_Survivor_SuperheroLanding", "PP_Survivor_Take_A_Rest", "PP_Survivor_LuckyShot", "PP_Survivor_Sturdy", "PP_Survivor_Adrenaline", "PP_Hunter_CounterAttack", "PP_Hunter_AutoGuard", "PP_Hunter_AfterShock", "PP_Hunter_PrayerDetector", "PP_Hunter_Deadend", "PP_Hunter_Stockpile", "PP_Survivor_Focus", "PP_Hunter_SerialKiller", "PP_Survivor_SacredString", "PP_Survivor_ItemScan", "PP_Survivor_HealYourselfWhenReviveFriends", "PP_Survivor_HeraldOfMaster", "PP_Hunter_JumpScare", "PP_Survivor_Escape", "PP_Hunter_Insolence", "PP_Hunter_ShellBarrier", "PP_Hunter_HunterInstinct", "PP_Survivor_DoorSlam", "PP_Hunter_Phasing", "PP_Survivor_TreasureHunter", "PP_Hunter_StaminaDrain", "PP_Survivor_HandsOfGreed", "PP_Hunter_DevilIntervention", "PP_Hunter_SmashRitualAura", "PP_Hunter_DecreaseRitualProgress" ],
+    "profiles": ["Profile_Default"],
+    "stickers": [
+      "Sticker_Default_Fight",
+      "Sticker_Default_GotKeyItem",
+      "Sticker_Default_Okay",
+      "Sticker_Default_No",
+      "Sticker_Default_Run",
+      "Sticker_Default_HelpMe",
+      "Sticker_Default_CoverMe",
+      "Sticker_Default_MeDecoy"
+    ],
+    "heads": [],
+    "backs": [],
+    "costumes": [ "Charlotte_Pet_00001", "Charlotte_Pet_00007", "Charlotte_Pet_00008", "Charlotte_Pet_00009", "Charlotte_Pet_00010", "Charlotte_Pet_00005", "Charlotte_Pet_00011", "Charlotte_Pet_00012", "Charlotte_Pet_00014", "Charlotte_Pet_00013", "Charlotte_Pet_00003", "Charlotte_Pet_00004", "Charlotte_Pet_00002", "Charlotte_Pet_00006", "Charlotte_Pet_00015", "Charlotte_Pet_00016", "Charlotte_Pet_00017", "Charlotte_Pet_00018" ],
+    "rituals": [],
+    "cosmeticconsume": [],
+    "bundles": [],
+    "poses": [],
+    "effects": [],
+    "lootBoxAmount": 0,
+    "bulletAmount": 0
+  },
+  "immortalData": [
+    {
+      "skin_shortcode": "Belle_Cutter_00007",
+      "isActive": true,
+      "activity": [
+        {
+          "skin_activity": "Immortal_WardenKillVisitor",
+          "goal": 1,
+          "skin_quest_status": 0
+        }
+      ]
+    },
+    {
+      "skin_shortcode": "Ratri_Bracelet_00004",
+      "isActive": true,
+      "activity": [
+        {
+          "skin_activity": "Immortal_WardenKillVisitor",
+          "goal": 1,
+          "skin_quest_status": 0
+        }
+      ]
+    },
+    {
+      "skin_shortcode": "HRK_Bag_00005",
+      "isActive": true,
+      "activity": [
+        {
+          "skin_activity": "Immortal_WardenKillVisitor",
+          "goal": 1,
+          "skin_quest_status": 0
+        },
+        {
+          "skin_activity": "AttackSurvivor",
+          "goal": 1,
+          "skin_quest_status": 0
+        }
+      ]
+    },
+    {
+      "skin_shortcode": "Item_Chaplet_Undying",
+      "isActive": true,
+      "activity": [
+        {
+          "skin_activity": "Immortal_Chaplet",
+          "goal": 1,
+          "skin_quest_status": 0
+        }
+      ]
+    },
+    {
+      "skin_shortcode": "Item_Rattan_Amethyst",
+      "isActive": true,
+      "activity": [
+        {
+          "skin_activity": "Immortal_RattanStun",
+          "goal": 1,
+          "skin_quest_status": 0
+        }
+      ]
+    },
+    {
+      "skin_shortcode": "Kamiko_Mask_00013",
+      "isActive": true,
+      "activity": [
+        {
+          "skin_activity": "Immortal_WardenKillVisitor",
+          "goal": 1,
+          "skin_quest_status": 0
+        }
+      ]
+    },
+    {
+      "skin_shortcode": "HolyWater_PaperShoot",
+      "isActive": true,
+      "activity": [
+        {
+          "skin_activity": "Immortal_HolyWater",
+          "goal": 1,
+          "skin_quest_status": 0
+        }
+      ]
+    },
+    {
+      "skin_shortcode": "Verona_Rapier_00001",
+      "isActive": true,
+      "activity": [
+        {
+          "skin_activity": "Immortal_WardenKillVisitor",
+          "goal": 1,
+          "skin_quest_status": 0
+        }
+      ]
+    },
+    {
+      "skin_shortcode": "HolyRice_Komebukuro",
+      "isActive": true,
+      "activity": [
+        {
+          "skin_activity": "Immortal_Magicrice",
+          "goal": 1,
+          "skin_quest_status": 0
+        }
+      ]
+    },
+    {
+      "skin_shortcode": "Syringe_00001",
+      "isActive": true,
+      "activity": [
+        {
+          "skin_activity": "Immortal_Syringe",
+          "goal": 1,
+          "skin_quest_status": 0
+        }
+      ]
+    }
+  ]
+}

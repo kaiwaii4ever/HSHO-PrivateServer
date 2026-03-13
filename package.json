@@ -1,0 +1,39 @@
+{
+  "name": "hsho-privateserver",
+  "version": "1.0.8",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "nodemon server.js"
+  },
+  "keywords": [],
+  "author": "Kaiwaii4ever",
+  "_moduleAliases": {
+    "@src": "src",
+    "@config": "src/config",
+    "@routes": "src/routes",
+    "@controllers": "src/controllers",
+    "@services": "src/services",
+    "@models": "src/models",
+    "@utils": "src/utils",
+    "@data": "data"
+  },
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "axios": "^1.13.2",
+    "cors": "^2.8.5",
+    "dotenv": "^17.2.3",
+    "express": "^5.2.1",
+    "jsonwebtoken": "^9.0.3",
+    "mongoose": "^9.0.1",
+    "redis": "^5.10.0",
+    "uuid": "^13.0.0"
+  },
+  "devDependencies": {
+    "eslint": "^9.39.2",
+    "module-alias": "^2.2.3",
+    "prettier": "^3.7.4"
+  }
+}

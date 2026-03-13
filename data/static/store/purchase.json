@@ -1,0 +1,70 @@
+{
+  "data" : {
+    "currentCurrency" : {
+      "coin" : 950000,
+      "amethyst" : 950000,
+      "amulet" : 950000
+    },
+    "purchasing" : {
+      "_id" : "0",
+      "orderId" : "0",
+      "userId" : "0",
+      "displayName" : "Kaiwaii4ever",
+      "type_currency" : "coin",
+      "balance" : 950000,
+      "status" : 0,
+      "purchasingToken" : "",
+      "productListingId" : "0",
+      "redeemCode" : null,
+      "purchasedBundleInfos" : {
+        "title" : "Test",
+        "descript" : "Test",
+        "shortCode" : "Test",
+        "itemsInBundle" : [ {
+          "amount" : 1,
+          "shortCode" : "Test"
+        } ],
+        "currency_type" : 1,
+        "price" : 25000,
+        "quantity" : 1
+      },
+      "selectedPriceTagIndex" : 0,
+      "platformSpecificInfo" : {
+        "country" : "KR",
+        "currency" : "KRW"
+      },
+      "isDiscount" : false,
+      "remark" : "from finalize purchasing",
+      "updatedAt" : "2024-11-01T03:21:31+07:00",
+      "createdAt" : "2024-11-01T03:21:31+07:00",
+      "completedAt" : "2024-11-01T03:21:31+07:00"
+    },
+    "purchasingLog" : {
+      "_id" : "0",
+      "userId" : "0",
+      "status" : 1,
+      "purchasingId" : "0",
+      "purchasingToken" : "Rh#VIIyk3yaI8oVp",
+      "productListingId" : "63185e433d1a7abb716d7a7e",
+      "remark" : "from finalize purchasing",
+      "compensationInfo" : { },
+      "logRefs" : {
+        "itemAdd" : [ {
+          "playerId" : "0",
+          "itemChanges" : {
+            "Test" : 1
+          },
+          "remark" : "from purchasing",
+          "timeStamp" : "2024-11-01T03:21:31.506+07:00",
+          "_id" : "0"
+        } ]
+      },
+      "createdAt" : "2024-11-01T03:21:31+07:00"
+    },
+    "itemAddResult" : {
+      "Test" : 1
+    }
+  },
+  "status" : 200,
+  "mime" : "application/json"
+}

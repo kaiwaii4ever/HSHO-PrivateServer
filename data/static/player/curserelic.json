@@ -1,0 +1,201 @@
+{
+  "data" : {
+    "curseRelic" : [ {
+      "ShortCode" : "Curse_SilenceMan",
+      "Level" : 4,
+      "MaxDurability" : 20,
+      "CurrentDurability" : 20
+    }, {
+      "ShortCode" : "Curse_Charlotte",
+      "Level" : 4,
+      "MaxDurability" : 20,
+      "CurrentDurability" : 20
+    }, {
+      "ShortCode" : "Curse_Rigger",
+      "Level" : 4,
+      "MaxDurability" : 20,
+      "CurrentDurability" : 20
+    }, {
+      "ShortCode" : "Curse_Chan",
+      "Level" : 4,
+      "MaxDurability" : 20,
+      "CurrentDurability" : 20
+    }, {
+      "ShortCode" : "Curse_Garnet",
+      "Level" : 4,
+      "MaxDurability" : 20,
+      "CurrentDurability" : 20
+    }, {
+      "ShortCode" : "Curse_Werewolf",
+      "Level" : 4,
+      "MaxDurability" : 20,
+      "CurrentDurability" : 20
+    }, {
+      "ShortCode" : "Curse_Pray",
+      "Level" : 4,
+      "MaxDurability" : 20,
+      "CurrentDurability" : 20
+    }, {
+      "ShortCode" : "Curse_Prisoner",
+      "Level" : 4,
+      "MaxDurability" : 20,
+      "CurrentDurability" : 20
+    }, {
+      "ShortCode" : "Curse_Pob",
+      "Level" : 4,
+      "MaxDurability" : 20,
+      "CurrentDurability" : 20
+    }, {
+      "ShortCode" : "Curse_Belle",
+      "Level" : 4,
+      "MaxDurability" : 20,
+      "CurrentDurability" : 20
+    }, {
+      "ShortCode" : "Curse_GrannyKham",
+      "Level" : 4,
+      "MaxDurability" : 20,
+      "CurrentDurability" : 20
+    }, {
+      "ShortCode" : "Curse_GrimFamily",
+      "Level" : 4,
+      "MaxDurability" : 20,
+      "CurrentDurability" : 20
+    }, {
+      "ShortCode" : "Curse_Hrk",
+      "Level" : 4,
+      "MaxDurability" : 20,
+      "CurrentDurability" : 20
+    }, {
+      "ShortCode" : "Curse_Verona",
+      "Level" : 4,
+      "MaxDurability" : 20,
+      "CurrentDurability" : 20
+    }, {
+      "ShortCode" : "Curse_Ratri",
+      "Level" : 4,
+      "MaxDurability" : 20,
+      "CurrentDurability" : 20
+    }, {
+      "ShortCode" : "Curse_Kamiko",
+      "Level" : 4,
+      "MaxDurability" : 20,
+      "CurrentDurability" : 20
+    }, {
+      "ShortCode" : "Curse_Saming",
+      "Level" : 4,
+      "MaxDurability" : 20,
+      "CurrentDurability" : 20
+    }, {
+      "ShortCode" : "Relic_Pang3P",
+      "Level" : 4,
+      "MaxDurability" : 20,
+      "CurrentDurability" : 20
+    }, {
+      "ShortCode" : "Relic_Gwyneth",
+      "Level" : 4,
+      "MaxDurability" : 20,
+      "CurrentDurability" : 20
+    }, {
+      "ShortCode" : "Relic_Manop",
+      "Level" : 4,
+      "MaxDurability" : 20,
+      "CurrentDurability" : 20
+    }, {
+      "ShortCode" : "Relic_JapanTouristF",
+      "Level" : 4,
+      "MaxDurability" : 20,
+      "CurrentDurability" : 20
+    }, {
+      "ShortCode" : "Relic_Aof",
+      "Level" : 4,
+      "MaxDurability" : 20,
+      "CurrentDurability" : 20
+    }, {
+      "ShortCode" : "Relic_Don",
+      "Level" : 4,
+      "MaxDurability" : 20,
+      "CurrentDurability" : 20
+    }, {
+      "ShortCode" : "Relic_Vanz",
+      "Level" : 4,
+      "MaxDurability" : 20,
+      "CurrentDurability" : 20
+    }, {
+      "ShortCode" : "Relic_Jean",
+      "Level" : 4,
+      "MaxDurability" : 20,
+      "CurrentDurability" : 20
+    }, {
+      "ShortCode" : "Relic_Security",
+      "Level" : 4,
+      "MaxDurability" : 20,
+      "CurrentDurability" : 20
+    }, {
+      "ShortCode" : "Relic_StudentF",
+      "Level" : 4,
+      "MaxDurability" : 20,
+      "CurrentDurability" : 20
+    }, {
+      "ShortCode" : "Relic_Tim",
+      "Level" : 4,
+      "MaxDurability" : 20,
+      "CurrentDurability" : 20
+    }, {
+      "ShortCode" : "Relic_Jane",
+      "Level" : 4,
+      "MaxDurability" : 20,
+      "CurrentDurability" : 20
+    }, {
+      "ShortCode" : "Relic_Mechanic",
+      "Level" : 4,
+      "MaxDurability" : 20,
+      "CurrentDurability" : 20
+    }, {
+      "ShortCode" : "Relic_Stephen",
+      "Level" : 4,
+      "MaxDurability" : 20,
+      "CurrentDurability" : 20
+    }, {
+      "ShortCode" : "Relic_ZBing",
+      "Level" : 4,
+      "MaxDurability" : 20,
+      "CurrentDurability" : 20
+    }, {
+      "ShortCode" : "Relic_Jessi",
+      "Level" : 4,
+      "MaxDurability" : 20,
+      "CurrentDurability" : 20
+    }, {
+      "ShortCode" : "Relic_Zico",
+      "Level" : 4,
+      "MaxDurability" : 20,
+      "CurrentDurability" : 20
+    }, {
+      "ShortCode" : "Relic_Tida",
+      "Level" : 4,
+      "MaxDurability" : 20,
+      "CurrentDurability" : 20
+    }, {
+      "ShortCode" : "Relic_Soldier",
+      "Level" : 4,
+      "MaxDurability" : 20,
+      "CurrentDurability" : 20
+    }, {
+      "ShortCode" : "Relic_Aisha",
+      "Level" : 4,
+      "MaxDurability" : 20,
+      "CurrentDurability" : 20
+    }, {
+      "ShortCode" : "Relic_TimAwake",
+      "Level" : 4,
+      "MaxDurability" : 20,
+      "CurrentDurability" : 20
+    }, {
+      "ShortCode" : "Relic_Jean",
+      "Level" : 4,
+      "MaxDurability" : 20,
+      "CurrentDurability" : 20
+    }]
+  },
+  "status": true
+}

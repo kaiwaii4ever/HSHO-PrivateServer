@@ -1,0 +1,110 @@
+{
+  "status": 1,
+  "data": [
+    {
+      "skin_shortcode": "Belle_Cutter_00007",
+      "isActive": true,
+      "activity": [
+        {
+          "skin_activity": "Immortal_WardenKillVisitor",
+          "goal": 1
+        }
+      ]
+    },
+    {
+      "skin_shortcode": "Ratri_Bracelet_00004",
+      "isActive": true,
+      "activity": [
+        {
+          "skin_activity": "Immortal_WardenKillVisitor",
+          "goal": 1
+        }
+      ]
+    },
+    {
+      "skin_shortcode": "HRK_Bag_00005",
+      "isActive": true,
+      "activity": [
+        {
+          "skin_activity": "Immortal_WardenKillVisitor",
+          "goal": 1
+        },
+        {
+          "skin_activity": "AttackSurvivor",
+          "goal": 1
+        }
+      ]
+    },
+    {
+      "skin_shortcode": "Item_Chaplet_Undying",
+      "isActive": true,
+      "activity": [
+        {
+          "skin_activity": "Immortal_Chaplet",
+          "goal": 1
+        }
+      ]
+    },
+    {
+      "skin_shortcode": "Item_Rattan_Amethyst",
+      "isActive": true,
+      "activity": [
+        {
+          "skin_activity": "Immortal_RattanStun",
+          "goal": 1
+        }
+      ]
+    },
+    {
+      "skin_shortcode": "Kamiko_Mask_00013",
+      "isActive": true,
+      "activity": [
+        {
+          "skin_activity": "Immortal_WardenKillVisitor",
+          "goal": 1
+        }
+      ]
+    },
+    {
+      "skin_shortcode": "HolyWater_PaperShoot",
+      "isActive": true,
+      "activity": [
+        {
+          "skin_activity": "Immortal_HolyWater",
+          "goal": 1
+        }
+      ]
+    },
+    {
+      "skin_shortcode": "Verona_Rapier_00001",
+      "isActive": true,
+      "activity": [
+        {
+          "skin_activity": "Immortal_WardenKillVisitor",
+          "goal": 1
+        }
+      ]
+    },
+    {
+      "skin_shortcode": "HolyRice_Komebukuro",
+      "isActive": true,
+      "activity": [
+        {
+          "skin_activity": "Immortal_Magicrice",
+          "goal": 1
+        }
+      ]
+    },
+    {
+      "skin_shortcode": "Syringe_00001",
+      "isActive": true,
+      "activity": [
+        {
+          "skin_activity": "Immortal_Syringe",
+          "goal": 1
+        }
+      ]
+    }
+  ],
+  "error": null
+}

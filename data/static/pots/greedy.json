@@ -1,0 +1,20 @@
+{
+  "data": {
+    "items": [
+      {
+        "short_code": "Skin_ZbingZ_SurvivalistTechnician",
+        "name": "Zbingz Survivalist Technician",
+        "type": "skin",
+        "rarity": "6",
+        "amount": 1,
+        "duplicate_exchange": {
+          "enable": false,
+          "short_code": "token",
+          "amount": 50,
+          "type": "currency"
+        }
+      }
+    ]
+  }
+}
+
