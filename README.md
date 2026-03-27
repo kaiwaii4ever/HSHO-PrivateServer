@@ -121,3 +121,14 @@ All intellectual property rights for **Home Sweet Home: Online** belong to **Ygg
 ---
 
 **Disclaimer**: This project is not affiliated with or endorsed by Yggdrazil Group. Use at your own risk.
+
+## Fixes
+
+### If you encounter powershell error while trying to execute via a Text Editor or an IDE
+```bash
+Set-ExecutionPolicy RemoteSigned -Scope LocalMachine
+```
+or
+```bash
+Set-ExecutionPolicy RemoteSigned -Scope CurrentUser
+```
